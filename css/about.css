@@ -12,8 +12,8 @@
 } */
 /* Start About One Section */
 .about-one {
-  margin-top: 86px;
-  background-image: url("../ASSETS/farmer-hand-nurturing-young-baby-plants.jpg");
+  margin-top: 83.83px;
+  background-image: url("../assets/farmer-hand-nurturing-young-baby-plants.jpg");
   height: 450px;
   width: 100%;
   background-repeat: no-repeat;
@@ -27,7 +27,7 @@
 }
 @media (max-width: 991px) {
   .about-one {
-    margin-top: 136px;
+    margin-top: 83.83px;
   }
 }
 .about-one h2 {

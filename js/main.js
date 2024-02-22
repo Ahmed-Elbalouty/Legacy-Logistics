@@ -66,6 +66,7 @@
         smartSpeed: 1200,
         autoHeight: false,
         autoplay: true,
+        autoplayTimeout: 4000, // Add a delay of 3000 milliseconds (3 seconds)
         responsive: {
 
             0: {
